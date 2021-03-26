@@ -3,6 +3,8 @@
 This is a "Real Time" location of a random public bus in
 Boston, Massachusetts.
 
+I used MBTA's API to get the real time location of the public bus and also the Mapbox API for the map. 
+
 <img src="https://media.giphy.com/media/S7w7bcQeAketHtE7P8/giphy.gif">
 
 ## Installation
