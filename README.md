@@ -3,7 +3,7 @@
 This is a "Real Time" location of a random public bus in
 Boston, Massachusetts.
 
-<img src="https://media.giphy.com/media/S7w7bcQeAketHtE7P8/giphy.gif">
+<img src="https://media.giphy.com/media/nO4VLGk1F9nZ4gpDUd/giphy.gif">
 
 ## Installation
 
